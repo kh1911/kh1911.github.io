@@ -36,6 +36,15 @@ Here is the detail of the directory for code used in this project:
 -  World_Overview_EUagg_plot.m
 -  World_Overview_plot.m
 
+-Supplementary Information **(IMPORTANT!)** (Our result stored in Excel format for readers' direct reference, in 7 sector resolution)
+-  (Final indirect CO2 emissions in .mat format for year 1997 and 2007, with meta data)
+-  200-item resolution result
+-  (explanation for supplementary results as well as result in CO2 flow table Excel format)
+-  Supplementary Information.docx **(IMPORTANT!)**
+-  Aggregation Concordance Matrix.xlsx
+-  Emission Intensities.xlsx
+-  Validation with World Bank_Result.xlsx
+
 -(Matlab code used to implement the algorithm in our project and part of the results)
 - 200ItemAnalysis.m
 - Aggregation Specifications.xlsx
